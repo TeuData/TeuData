@@ -99,7 +99,7 @@ Me chamo Mateus Pereira da Silva, tenho 20 anos e sou natural da Bahia. Atualmen
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200"
+    height="100"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeuData&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
